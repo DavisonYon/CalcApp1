@@ -1,0 +1,15 @@
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\bin\Debug\net6.0\CalcApp1.exe
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\bin\Debug\net6.0\CalcApp1.deps.json
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\bin\Debug\net6.0\CalcApp1.runtimeconfig.json
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\bin\Debug\net6.0\CalcApp1.dll
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\bin\Debug\net6.0\CalcApp1.pdb
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\CalcApp1.csproj.AssemblyReference.cache
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\CalcApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\CalcApp1.AssemblyInfoInputs.cache
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\CalcApp1.AssemblyInfo.cs
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\CalcApp1.csproj.CoreCompileInputs.cache
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\CalcApp1.dll
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\refint\CalcApp1.dll
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\CalcApp1.pdb
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\CalcApp1.genruntimeconfig.cache
+C:\Users\davison_yon\source\repos\CalcApp1\CalcApp1\obj\Debug\net6.0\ref\CalcApp1.dll
